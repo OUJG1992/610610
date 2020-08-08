@@ -1,0 +1,39 @@
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\bin\Debug\McProtocolTester.exe.config
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\bin\Debug\McProtocolTester.exe
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\bin\Debug\McProtocolTester.pdb
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\bin\Debug\McProtocol.dll
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\bin\Debug\McProtocol.pdb
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csprojAssemblyReference.cache
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.Form1.resources
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.Properties.Resources.resources
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csproj.GenerateResource.cache
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csproj.CoreCompileInputs.cache
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csproj.CopyComplete
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.exe
+E:\Other Project\McProtocol-master (1)\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.pdb
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\bin\Debug\McProtocolTester.exe.config
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\bin\Debug\McProtocolTester.exe
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\bin\Debug\McProtocolTester.pdb
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\bin\Debug\McProtocol.dll
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\bin\Debug\McProtocol.pdb
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csprojAssemblyReference.cache
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.Form1.resources
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.Properties.Resources.resources
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csproj.GenerateResource.cache
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csproj.CoreCompileInputs.cache
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csproj.CopyComplete
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.exe
+E:\Other Project\McProtocol-master\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.pdb
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\bin\Debug\McProtocolTester.exe.config
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\bin\Debug\McProtocolTester.exe
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\bin\Debug\McProtocolTester.pdb
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\bin\Debug\McProtocol.dll
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\bin\Debug\McProtocol.pdb
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csprojAssemblyReference.cache
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.Form1.resources
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.Properties.Resources.resources
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csproj.GenerateResource.cache
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csproj.CoreCompileInputs.cache
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.csproj.CopyComplete
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.exe
+D:\bomming\CYG610\McProtocol_CS\McProtocolTester\obj\x86\Debug\McProtocolTester.pdb
